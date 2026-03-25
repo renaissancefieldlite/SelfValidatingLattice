@@ -1,0 +1,13 @@
+{
+  "mode": "simulation",
+  "evidence_status": "architecture_coherence",
+  "node_count": 43,
+  "metrics": {
+    "mean_weight": 0.5533333333333333,
+    "density": 0.3488372093023256,
+    "normalized_spectral_radius": 0.2419665929814578,
+    "coherence_score": 0.3813790452057056
+  },
+  "schema_version": "rfl.self_validating_lattice.v2",
+  "next_step": "Correlate graph-level outputs with cross-repo or cross-session artifacts before treating the score as external evidence."
+}
