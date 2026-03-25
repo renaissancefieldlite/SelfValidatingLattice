@@ -7,6 +7,10 @@ This repo is not a direct hardware experiment. It is the system-coherence layer
 that asks whether the graph remains internally stable under baseline and
 hardware-derived perturbation assumptions.
 
+That places it mainly in the architecture layer of the stack. It can be linked
+to the transition-cadence program, but it should not be mistaken for a direct
+measurement repo.
+
 ## Evidence tracks
 
 - `architecture_coherence`: baseline graph model

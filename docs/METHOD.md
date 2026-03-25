@@ -9,4 +9,5 @@ calibration-anchored noise parameters to estimate how much system coherence
 degrades under realistic device assumptions.
 
 That makes this repo an architecture layer, not a standalone proof of external
-physics.
+physics. It is adjacent to the transition-cadence program rather than identical
+to it.
