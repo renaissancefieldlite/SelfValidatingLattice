@@ -1,4 +1,4 @@
-# SelfValidatingLattice
+# Experiment 7: SelfValidatingLattice
 
 Architecture-level coherence model for the seven-experiment stack and its
 supporting nodes.
